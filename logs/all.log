@@ -1,0 +1,72 @@
+yyyy-01-12 17:22:28:2228 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 17:23:25:2325 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 17:26:00:260 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 17:26:00:260 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 17:26:36:2636 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 17:26:36:2636 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 17:26:40:2640 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 17:26:40:2640 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:27:45:2745 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 19:27:45:2745 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:27:50:2750 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 19:27:50:2750 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:28:09:289 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 19:28:09:289 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:41:49:4149 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 19:41:49:4149 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:42:24:4224 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 19:42:24:4224 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:42:52:4252 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 19:42:52:4252 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 19:42:56:4256 - [35mhttp[39m: [35mGET /api/test 200 11 - 2.506 ms[39m
+[35m[39m
+2023-01-12 20:06:43:643 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 20:06:43:643 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 20:08:08:88 - [35mhttp[39m: [35mGET /api/movie 404 148 - 2.499 ms[39m
+[35m[39m
+2023-01-12 20:09:13:913 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 2.248 ms[39m
+[35m[39m
+2023-01-12 20:48:05:485 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 20:48:05:485 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 20:49:31:4931 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-01-12 20:55:15:5515 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-12 20:55:27:5527 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-01-12 20:55:58:5558 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-12 21:06:01:61 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 21:06:01:61 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 21:06:51:651 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-01-12 21:14:23:1423 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-12 21:14:28:1428 - [35mhttp[39m: [35mGET /api/test 200 11 - 1.965 ms[39m
+[35m[39m
+2023-01-12 21:14:35:1435 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-01-12 21:14:47:1447 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-12 21:14:50:1450 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-01-12 21:14:56:1456 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-12 21:15:22:1522 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 21:15:22:1522 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 21:15:28:1528 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 2.631 ms[39m
+[35m[39m
+2023-01-12 21:15:39:1539 - [35mhttp[39m: [35mGET /api/test 200 11 - 1.531 ms[39m
+[35m[39m
+2023-01-12 21:15:57:1557 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 0.921 ms[39m
+[35m[39m
+2023-01-12 21:16:08:168 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 21:16:08:168 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 21:16:11:1611 - [35mhttp[39m: [35mPOST /api/movie 200 9 - 2.456 ms[39m
+[35m[39m
+2023-01-12 21:17:51:1751 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 21:17:51:1751 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 21:18:26:1826 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-01-12 21:29:13:2913 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-12 21:29:18:2918 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 405.533 ms[39m
+[35m[39m
+2023-01-12 21:42:18:4218 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-01-12 21:42:18:4218 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2023-01-12 21:42:55:4255 - [35mhttp[39m: [35mPOST /api/movie 201 165 - 69.624 ms[39m
+[35m[39m
